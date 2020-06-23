@@ -116,7 +116,7 @@ button:focus {
 
 #locations {
 	min-height: 100vh;
-	background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url(/img/new-york-page.png);
+	background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("./img/new-york-page.png");
 	background-position: center;
 	background-size: cover;
 	display: flex;
@@ -227,7 +227,7 @@ button:focus {
 
 #contact {
 	min-height: 100vh;
-	background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url(/img/contact-mountain.png);
+	background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("./img/contact-mountain.png");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
